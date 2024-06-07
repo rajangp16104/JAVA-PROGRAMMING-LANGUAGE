@@ -6,7 +6,7 @@ public class JavaForLoop2{
         for(int Line = 1; Line <=4; Line++)
         {
             System.out.println("****");
-            System.out.println("Hello");
+            System.out.println("Hello1");
 
 
         }
